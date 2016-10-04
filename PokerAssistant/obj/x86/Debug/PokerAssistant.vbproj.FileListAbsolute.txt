@@ -1,0 +1,11 @@
+C:\Users\Compaq\documents\visual studio 2010\Projects\PokerAssistant\PokerAssistant\bin\Debug\PokerAssistant.exe
+C:\Users\Compaq\documents\visual studio 2010\Projects\PokerAssistant\PokerAssistant\bin\Debug\PokerAssistant.pdb
+C:\Users\Compaq\documents\visual studio 2010\Projects\PokerAssistant\PokerAssistant\bin\Debug\PokerAssistant.xml
+C:\Users\Compaq\documents\visual studio 2010\Projects\PokerAssistant\PokerAssistant\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Compaq\documents\visual studio 2010\Projects\PokerAssistant\PokerAssistant\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Compaq\documents\visual studio 2010\Projects\PokerAssistant\PokerAssistant\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Compaq\documents\visual studio 2010\Projects\PokerAssistant\PokerAssistant\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Compaq\documents\visual studio 2010\Projects\PokerAssistant\PokerAssistant\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Compaq\documents\visual studio 2010\Projects\PokerAssistant\PokerAssistant\obj\x86\Debug\PokerAssistant.exe
+C:\Users\Compaq\documents\visual studio 2010\Projects\PokerAssistant\PokerAssistant\obj\x86\Debug\PokerAssistant.xml
+C:\Users\Compaq\documents\visual studio 2010\Projects\PokerAssistant\PokerAssistant\obj\x86\Debug\PokerAssistant.pdb
